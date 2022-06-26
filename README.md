@@ -12,7 +12,7 @@ Seção 2: Introdução ao FastAPI
 - Revisando a Programação Assíncrona
 - Construindo a primeira API
 
-Entendendo os conceitos do FastAPI
+Seção 3: Entendendo os conceitos do FastAPI
 - Definindo um novo projeto
 - O método GET
 - Tratando exceções
